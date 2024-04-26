@@ -22,4 +22,5 @@ Exploring Palmer Penguins Dataset
 
 - Question
 - Scatter plot 
-- Correlation
+- Correlation coefficient
+- Conclusion
