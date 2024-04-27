@@ -22,5 +22,6 @@ Exploring Palmer Penguins Dataset
 
 - Question
 - Scatter plot 
+- Data cleaning
 - Correlation coefficient
 - Conclusion
