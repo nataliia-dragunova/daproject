@@ -20,7 +20,7 @@ Exploring Palmer Penguins Dataset
 
 3. Dataset Analysing
 
-- Question
+- Questions
 - Scatter plot 
 - Data cleaning
 - Correlation coefficient
